@@ -7,21 +7,33 @@ Peace and love
 
 <h2>My programming skills</h2>
 <p>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="[https://www.w3schools.com/css/](https://www.w3.org/Style/CSS/Overview.en.html)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/4a2a2c08-ee15-44c3-9d31-2c1e9ea6e45b" alt="python" width="40" height="40"/> </a> 
+  <!-- C -->
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/dea60431-bf82-4f32-baf7-8f899e0f20cb" alt="c" width="40" height="40"/> </a> 
+  <!-- CPP -->
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/1c252e2c-829f-4fe9-8f11-ccaebfe7c846" alt="cplusplus" width="40" height="40"/> </a>
+  <!-- Matlab -->
+  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>   
+  <!-- ROS2 -->
+  <a href="https://docs.ros.org/en/humble/index.html" target="_blank" rel="noreferrer">
+    <img src="https://github.com/user-attachments/assets/311b7101-bef8-4f3b-8de6-b4b0461c8609" alt="ros2" width="40" height="40"/>
+  </a>
+  <!-- micro-ROS -->
+  <a href="https://micro.ros.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/user-attachments/assets/1d697de4-910b-4a39-b9e2-d590ed5a03cc" width="70" height="70"/>
+  </a>
+  <!-- MoveIt -->
+  <a href="https://moveit.ros.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/user-attachments/assets/7a256ef9-f3c9-4844-9be8-89e31ff06bd9" alt="moveit" width="70" height="50"/>
+  </a>
 </p>
 
 <h2>Electronics</h2>
  <p>
   <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank"><img src="https://raw.githubusercontent.com/ZajacPi/logos/main/stm32-logo.png" alt="STM32" width="40" height="40"/></a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" alt="arduino" width="40" height="30"/> </a> 
   <a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberry" width="40" height="40"/> </a> 
+  <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/554b3ef4-0075-48f7-a49c-9cc57c117ed2" alt="esp32" width="40" height="50"/> </a> 
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" alt="arduino" width="40" height="30"/> </a> 
  </p>
  
 <h2>3D design</h2>
